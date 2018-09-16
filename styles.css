@@ -1,0 +1,15 @@
+header h1, h2 {text-align: center; font-style: italic}
+body {margin: 100px;
+      background-color: wheat}
+p {padding: 6px;
+    font-size: 18px;
+   }
+h2 {background-color: rgb(180, 122, 122)}
+footer {text-align: center}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    border-style: solid;
+}
